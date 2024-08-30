@@ -8,14 +8,14 @@
 ## My Skills 
 
 <div align = "center">
-<img src= "https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src= "https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=white"/>
-<img src= "https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB"/>
-<img src= "https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB"/>  
-<img src= "https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src= "https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB"(https://www.linkedin.com/in/SEUUSERNAME/)/>
+<img src= "https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src= "https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src= "https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src= "https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=61DAFB"/>
+<img src= "https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=61DAFB"/>  
+<img src= "https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src= "https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=61DAFB"(https://www.linkedin.com/in/SEUUSERNAME/)/>
 
 </div>
 
