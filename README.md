@@ -3,7 +3,7 @@
 <img width=100%  bottom=50px src= "https://github.com/user-attachments/assets/57877ebd-e668-418c-af22-d815b071db2b"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Code&pause=1000&color=1D76AC&background=2393FF00&width=435&lines=My+name+is+Jo%C3%A3o+%3A);I'm+a+Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Code&pause=1000&color=1D76AC&background=2393FF00&width=435&lines=My+name+is+Jo%C3%A3o+%3A);I'm+a+Data+Analyst" alt="Typing SVG" /></a>
 
 ## My Skills 
 
