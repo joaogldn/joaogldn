@@ -29,9 +29,6 @@ My academic background covers areas such as data analysis, information security,
 
 Through these experiences, I have developed essential skills for teamwork, meeting deadlines, and overcoming challenges with dedication and creativity. Whether contributing to innovative projects or working in data analysis, I seek challenges that push me to reach new heights.
 
-
-
-
 ## GitHub Stats
 
 <div align="center">
@@ -47,7 +44,3 @@ Through these experiences, I have developed essential skills for teamwork, meeti
   <p>Visitantes do perfil:</p>
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoaogldn&s=50&c=0A66C2&bg=00000000&no=2&ff=digi" alt="Visits">
 </div>
-
-
-
-
