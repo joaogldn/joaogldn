@@ -8,16 +8,29 @@
 ## My Skills 
 
 <div align = "center">
-<img src= "https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src= "https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src= "https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src= "https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=61DAFB"/>
-<img src= "https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=61DAFB"/>  
-<img src= "https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src= "https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=61DAFB"(https://www.linkedin.com/in/SEUUSERNAME/)/>
+
+<img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src= "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogaldino7/)"/>
 
 </div>
+
+## About me
+
+Graduated in Redes de Computadores and currently pursuing a degree in Análise e Desenvolvimento de Sistemas, my academic journey reflects my passion for technology since childhood.
+
+My connection with the tech field began early in life, leading me to explore various possibilities at the start of my journey. A passion for music motivated me to use technology to create projects, leveraging advanced tools for audio editing and composition.
+
+My academic background covers areas such as data analysis, information security, network infrastructure, database modeling, and web development, with proficiency in programming languages like C++ and Python.
+
+Through these experiences, I have developed essential skills for teamwork, meeting deadlines, and overcoming challenges with dedication and creativity. Whether contributing to innovative projects or working in data analysis, I seek challenges that push me to reach new heights.
+
+
+
 
 ## GitHub Stats
 
