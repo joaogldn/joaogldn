@@ -43,7 +43,10 @@ Through these experiences, I have developed essential skills for teamwork, meeti
 <img src= "https://ssr-contributions-svg.vercel.app/_/joaogldn?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=blue"/>
 </div>
 
-
+<div align="center">
+  <p>Visitantes do perfil:</p>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoaogldn&s=50&c=0A66C2&bg=00000000&no=2&ff=digi" alt="Visits">
+</div>
 
 
 
